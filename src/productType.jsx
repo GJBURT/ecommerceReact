@@ -1,5 +1,6 @@
 import React from "react";
 
+//Box of Booster Packs contains 324pcs with 36 Booster Packs that have 9 cards per Booster Pack
 
 const ProductType = ({ productTypes, onProductTypeSelect }) => {
     return (
