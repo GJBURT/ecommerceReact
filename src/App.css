@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.productContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 16px;
+  padding: 20px;
+}
