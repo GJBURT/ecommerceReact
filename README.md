@@ -1,12 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Advanced JS & Intro to React Module Project: E-Commerce Product Listing App
 
-Currently, two official plugins are available:
+Project Overview
+In this project, students will build a simple E-Commerce Product Listing App using React. This project reinforces React components, props, and state by designing a layout without using frameworks like Bootstrap, focusing on custom styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Learning Objectives
+By the end of this project, students will be able to:
+✅ Organize code using React components.
+✅ Manage state using the useState hook.
+✅ Pass and manage data through props between components.
+✅ Structure a React application with a parent-child component hierarchy.
 
-## Expanding the ESLint configuration
+E-Commerce Product Listing App is a Trading Card Shop that features Brand Categories including Pokemon, Magic the Gathering, and Baseball cards. Each category has Product Type's to include Box of Booster Packs, Booster Pack, and Random Single Graded Card.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+End User Flow: Brand Category (example: Pokemon)>Product Type (example: Box)>Product Details: Image of product, Product description, and Price.
+
+Programming Languges:
+HTML, CSS, JavaScript, React
+
+
+## Authors
+
+- [@GeoffreyBurt](https://github.com/GJBURT)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffreyjburt/)
+
+
